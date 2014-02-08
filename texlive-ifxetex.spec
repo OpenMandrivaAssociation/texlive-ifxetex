@@ -6,7 +6,7 @@
 # catalog-version 0.5
 Name:		texlive-ifxetex
 Version:	0.5
-Release:	2
+Release:	3
 Summary:	Am I running under XeTeX?
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/generic/ifxetex
