@@ -5,8 +5,8 @@
 # catalog-license lppl
 # catalog-version 0.5
 Name:		texlive-ifxetex
-Version:	0.5
-Release:	10
+Version:	0.6
+Release:	1
 Summary:	Am I running under XeTeX?
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/generic/ifxetex
