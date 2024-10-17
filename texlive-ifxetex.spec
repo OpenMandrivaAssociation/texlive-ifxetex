@@ -9,7 +9,7 @@ Version:	0.6
 Release:	3
 Summary:	Am I running under XeTeX?
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/generic/ifxetex
+URL:		https://www.ctan.org/tex-archive/macros/generic/ifxetex
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ifxetex.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ifxetex.doc.tar.xz
